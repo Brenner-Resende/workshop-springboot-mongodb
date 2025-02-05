@@ -57,7 +57,7 @@ GET /posts/fullsearch?text=exemplo&minDate=2024-01-01&maxDate=2025-01-01
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/workshop-mongo.git
+   git clone https://github.com/Brenner-Resende/workshop-springboot-mongodb.git
    cd workshop-mongo
    ```
 
